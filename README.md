@@ -1,7 +1,7 @@
 # Hotstar-Clone
 
 
-Technologies which we used →
+# Technologies which we used →
 
 Html,
 
@@ -15,9 +15,9 @@ JSON
 
 API → TheMoveiDB & Youtube,
 
-Time Duration -> 5–7 Days
+# Time Duration -> 5–7 Days
 
-Features and Pages->
+# Features and Pages->
 
 Landing Pages
 
@@ -59,6 +59,6 @@ Note -> We have not used any kind of Static Data means if you visit this page af
 
 
 
-Deplyement Link
+# Deplyement Link
 
 https://anjali280.github.io/hotstart_clone_/
