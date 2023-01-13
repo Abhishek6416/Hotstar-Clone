@@ -29,7 +29,7 @@ Payment Section
 
 Add or Manage Profile(Who’s Watching)
 
-HomePage After login (Different than Netflix)
+HomePage After login 
 
 Trending Page
 
